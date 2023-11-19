@@ -5,7 +5,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://aneeshma.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://aneeshma.github.io" target="_blank"><img src="examples/preview.PNG">
   </a>
   </kbd>
 </p>
