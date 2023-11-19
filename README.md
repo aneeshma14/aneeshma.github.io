@@ -1,5 +1,4 @@
 # Personal Portfolio ⚡️ 
-> Aneeshma Anilkumar
 > View Live on https://aneeshma.github.io
 
 
